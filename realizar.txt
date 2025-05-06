@@ -1,0 +1,13 @@
+transformaciones a realizar:
+* los nombres de los estudiantes y los nombres de las materias ponerlos en mayúsculas
+* limpiar la columna de asistencia (eliminar el " % " ) 
+* cambiar el tipo de dato de las columnas parcial 1/2, final y asistencia
+* corregir la cantidad de datos nulos que hay en las columnas de parcial 1/2 y final
+* corregir la grmática de los nombres de las materias.
+
+obtener estadísticas de: 
+	promedio de clasificaciones por materia 
+
+
+Matplotlib:
+definir con qué datos haré los cuadros
